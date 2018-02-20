@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332554066008",
+    "firebase_url": "https://guiadecomercio-b243f.firebaseio.com",
+    "project_id": "guiadecomercio-b243f",
+    "storage_bucket": "guiadecomercio-b243f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332554066008:android:403ed5340aead9b4",
+        "android_client_info": {
+          "package_name": "com.example.claudio.guiadecomercio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332554066008-er2dqkiogi2orojd74ducc3b35hfejpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.claudio.guiadecomercio",
+            "certificate_hash": "e3317e3a0eb3e9f9ae94eae1e7ed5a40a68061f4"
+          }
+        },
+        {
+          "client_id": "332554066008-sfs89loe0njjkjrpt7ki05sr8m8ceaca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChbW088sXax-UbZ2VdXbMeUnmVpDAJt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332554066008-sfs89loe0njjkjrpt7ki05sr8m8ceaca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

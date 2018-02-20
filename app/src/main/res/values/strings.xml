@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Guia de Comercio</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Seja bem vindo!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string-array name="company_list">
+        <item>Academias</item>
+        <item>Advogados</item>
+        <item>Andaimes</item>
+        <item>Aquecedor_Solar</item>
+        <item>Ar_Carro</item>
+        <item>Ar_Condicionado</item>
+        <item>Auto</item>
+        <item>Automóveis</item>
+        <item>Azulejo</item>
+        <item>Baterias_Lojas</item>
+        <item>Bolos_Loja</item>
+        <item>Box_Banheiro</item>
+        <item>Buffet</item>
+        <item>Salão_Beleza</item>
+        <item>Caça_Vazamento</item>
+        <item>Calhas_Rufos</item>
+        <item>Caminhão_Mudança</item>
+        <item>Carro_Oficina</item>
+        <item>Chaveiro</item>
+        <item>Clin_Veterinaria</item>
+        <item>Cofres</item>
+        <item>Construção Reforma</item>
+        <item>Cortinas_Lojas</item>
+        <item>Decoração</item>
+
+
+        <item>Dedetização</item>
+        <item>Desentupimento</item>
+        <item>Eletricista</item>
+        <item>Eletro TVs Som</item>
+        <item>Encanadores</item>
+        <item>Energia Solar</item>
+
+        <item>Esquadrias_Aluminio</item>
+        <item>Extintores</item>
+        <item>Fantasias</item>
+        <item>Festa_Artigo_Festa</item>
+        <item>Fisioterapeuta</item>
+        <item>Forros_Divisórias</item>
+
+
+        <item>Fossas_Sépticas</item>
+        <item>Fotografia_Filmagem</item>
+        <item>Gráficas</item>
+        <item>Guinchos</item>
+        <item>Hosp_Veterinário</item>
+        <item>Instituto_Beleza</item>
+
+        <item>Maquina_Lavar_Conserto</item>
+        <item>Marcenarias</item>
+        <item>Marido_ALuguel</item>
+        <item>Mármore_Granitos</item>
+        <item>Motoboy_Entregas</item>
+        <item>Movéis_Escritório</item>
+
+        <item>Odontologia</item>
+        <item>Persianas_Lojas</item>
+        <item>Pisos</item>
+        <item>Pisos_Lâminadosr</item>
+        <item>Pizzarias</item>
+        <item>Planos_Saúde</item>
+
+        <item>Portas_Automáticas</item>
+        <item>Redes_Proteção</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Agulha</item>
+        <item>Facebook</item>
+
+        <item>MySpace</item>
+        <item>Skype</item>
+        <item>Snapchat</item>
+        <item>Twitter</item>
+        <item>Agulha</item>
+        <item>Facebook</item>
+        <item>MySpace</item>
+
+
+    </string-array>
+
+    <string name="action_settings">Suporte</string>
+    <string name="nav_camera">Mapa</string>
+
+    nav_camera
+    <string name="item_title">Lojas em Gerais</string>
+    <string name="item_desc">Teste de escrita para aplicativos.
+    </string>
+    <string name="title_activity_academia1">Academia1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="title_activity_menu_guia">Guia de Comercio </string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+
+
+</resources>
